@@ -1,8 +1,8 @@
 # PCOS metagenome analysis 
 
-data.zip includes inputdata and scripts for the multi-cohort PCOS gut microbiome study (MetaPhlAn4, SGB, HUMAnN).
+data.zip includes all inputdata and scripts for the multi-cohort PCOS gut microbiome study (MetaPhlAn4, SGB, HUMAnN).
 
-## `input/`
+## `input files:`
 
 | File | Description |
 |------|-------------|
@@ -18,6 +18,6 @@ data.zip includes inputdata and scripts for the multi-cohort PCOS gut microbiome
 
 Raw reads: NCBI SRA `PRJNA530971`, `PRJNA549764`, `PRJNA791492`.
 
-## `code/`
+## `code:`
 
 Analysis scripts named by manuscript figure (e.g. `Fig1B_S2_alpha_diversity.py`, `Fig3_species_network_ComBat.R`).
